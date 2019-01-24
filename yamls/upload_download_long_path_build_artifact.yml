@@ -18,9 +18,9 @@ jobs:
      mkdir fortyNine1234567890abcdefghijklmnopqrstuvwxyz1234
      cd fortyNine1234567890abcdefghijklmnopqrstuvwxyz1234
      echo "GotHere" > 206.txt
-     #mkdir fortyNine1234567890abcdefghijklmnopqrstuvwxyz1234
-     #cd fortyNine1234567890abcdefghijklmnopqrstuvwxyz1234
-     #echo "GotHere" > 256.txt
+     mkdir fortyNine1234567890abcdefghijklmnopqrstuvwxyz1234
+     cd fortyNine1234567890abcdefghijklmnopqrstuvwxyz1234
+     echo "GotHere" > 256.txt
      #mkdir fortyNine1234567890abcdefghijklmnopqrstuvwxyz1234
      #cd fortyNine1234567890abcdefghijklmnopqrstuvwxyz1234
      #echo "GotHere" > 306.txt
